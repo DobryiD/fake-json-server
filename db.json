@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "pass": "admin", "email": "admintest@somemail.com" },
+    { "pass": "qwerty", "email": "admintest2@somemail.com" },
+    { "pass": "12345Qwe", "email": "admintest3@somemail.com" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
