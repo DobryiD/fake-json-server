@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "pass": "admin", "email": "admintest@somemail.com" },
-    { "pass": "qwerty", "email": "admintest2@somemail.com" },
-    { "pass": "12345Qwe", "email": "admintest3@somemail.com" }
+    { "id":1,"pass": "admin", "email": "admintest@somemail.com" },
+    { "id":2,"pass": "qwerty", "email": "admintest2@somemail.com" },
+    { "id":3,"pass": "12345Qwe", "email": "admintest3@somemail.com" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
